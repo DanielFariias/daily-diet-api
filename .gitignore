@@ -6,3 +6,5 @@ src/db/*.db
 .env.test
 
 build
+
+DS_Store
