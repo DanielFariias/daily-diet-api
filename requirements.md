@@ -1,5 +1,5 @@
 # Users
-- [ ] Deve ser possível criar um usuário
+- [x] Deve ser possível criar um usuário
 - [ ] Deve ser possível identificar o usuário entre as requisições
 - [ ] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
 
